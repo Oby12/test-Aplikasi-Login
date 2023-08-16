@@ -2,5 +2,4 @@ xample for learn merge with git
 
 i change word this file, for learn merge conflict
 
-this second try for learn merge conflict
-
+ini pecobaan kedua belajar merge conflict
